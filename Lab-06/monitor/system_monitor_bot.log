@@ -1,0 +1,9 @@
+2025-06-16 01:48:56,541 - INFO - System Monitor: Starting system monitoring...
+2025-06-16 01:48:56,561 - INFO - CPU: Usage: 11.6%
+2025-06-16 01:48:56,562 - INFO - Memory: Usage: 49.1%
+2025-06-16 01:49:02,692 - INFO - HTTP Request: POST https://api.telegram.org/bot7124821005:AAEjeqzqlyV1sPuDhBlDdXTxF8tcQhvHGcY/sendMessage "HTTP/1.1 400 Bad Request"
+2025-06-16 02:06:00,969 - INFO - System Monitor: Starting system monitoring...
+2025-06-16 02:06:00,977 - INFO - CPU: Usage: 9.7%
+2025-06-16 02:06:00,977 - INFO - Memory: Usage: 46.2%
+2025-06-16 02:06:03,451 - INFO - HTTP Request: POST https://api.telegram.org/bot7124821005:AAEjeqzqlyV1sPuDhBlDdXTxF8tcQhvHGcY/sendMessage "HTTP/1.1 200 OK"
+2025-06-16 02:06:03,455 - INFO - System Monitor: ------------------------------
